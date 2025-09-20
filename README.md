@@ -16,15 +16,15 @@ I enjoy solving complex problems, working with distributed systems, and learning
 
 ## 🌟 Featured Projects  
 
-### 🔹 [Product Promotion Engine](https://github.com/Biswajit8/Spring-AI)
+### 🔹 [Spring-AI](https://github.com/Biswajit8/Spring-AI)
 Exploring AI integrations with Spring Boot — practical examples of bringing ML/AI into Java microservices.  
 *Technologies: Java, Spring AI, Model Context Protocol*  
 
-### 🔹 [Graph Database Experiments](https://github.com/Biswajit8/EventDrivenArchitecture)
+### 🔹 [EventDrivenArchitecture](https://github.com/Biswajit8/EventDrivenArchitecture)
 Event-driven microservices with Spring Boot & Kafka, demonstrating scalable system design patterns.  
 *Technologies: Jaba, Spring Boot, Kafka*  
 
-### 🔹 [API Development Starter Kit](https://github.com/Biswajit8/Spring_Boot_Projects)
+### 🔹 [Spring_Boot_Projects](https://github.com/Biswajit8/Spring_Boot_Projects)
 A collection of Spring Boot projects covering REST APIs, security, testing, and microservices essentials.  
 *Technologies: Java, Spring Data JPA, Mongo DB*  
 
