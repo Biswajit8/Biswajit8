@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Biswajit Saha  
 
-🚀 Senior Software Engineer passionate about building **scalable backend systems** and exploring various **databases**.  
+🚀 Software Engineer passionate about building **scalable backend systems** and exploring various **databases**.  
 I enjoy solving complex problems, working with distributed systems, and learning new technologies every day.  
 
 ---
