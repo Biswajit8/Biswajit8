@@ -42,7 +42,7 @@ A collection of Spring Boot projects covering REST APIs, security, testing, and 
 ## 📫 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sahabiswajit/)  
 - ✉️ biswa.saha.707@gmail.com  
-- 🌐 Blog:  
+- 🌐 Blog: www.codespice.me
 
 ---
 ✨ *Always curious, always building.*  
